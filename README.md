@@ -60,5 +60,11 @@
 - HeyLink.me ,lintr.ee,
 - chatstudio
 - notes.io
+- flicker.com
 - KW: people over pappers
+
+## 
+- Search event => write artcile => get started with Adfirm => add link of landing page on article and post and index article
+- find good parasite
+- topic => movies, books etc
 
